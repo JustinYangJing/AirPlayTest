@@ -36,5 +36,5 @@
 	    }
 	}
 	
-> 在`MPAVRoutingControllerDelegate`的`routingControllerAvailableRoutesDidChange`用代码来选择用户指定的`AirPlay`设备，如果用户想取消自动选择的功能，将deviceName属性赋值为nil即可。
+>在`MPAVRoutingControllerDelegate`的`routingControllerAvailableRoutesDidChange`用代码来选择用户指定的`AirPlay`设备，如果用户想取消自动选择的功能，将deviceName属性赋值为nil即可。
  
